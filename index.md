@@ -11,7 +11,7 @@ layout: page
 
 ### **Associate Research Fellow**
 
-### **Korea Institute for International Economic Policy(KIEP)**
+### **Korea Institute for International Economic Policy (KIEP)**
 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
