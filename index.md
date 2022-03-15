@@ -8,12 +8,10 @@ layout: page
 <br>
 
 # Dr. Wontae Han 
-
 * _**Associate Research Fellow**_ at _**Korea Institute for International Economic Policy**_
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
 ## Career
-
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
 * Postdoctoral Scholar, [CUHKSZ(SME)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 * _**Doctoral Dissertation**_ <br>
@@ -22,12 +20,16 @@ layout: page
   [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Kenneth West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan Carlos Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
 ## Research Interest
-
 * International Macroeconomics 
 * Business Cycle, Monetary Policy, FDI, Capital Flow in Open Economies 
 
-## Contact
+## References
+* [Charles Engel](https://www.ssc.wisc.edu/~cengel/)
+* [Kenneth West](https://www.ssc.wisc.edu/~kwest/)
+* [Javier Bianchi](http://www.javierbianchi.com/)
+* [Jian Wang](https://jianwang.weebly.com/)
 
+## Contact
 ```
 Affiliation: International Finance Team, Korea Institute for International Economic Policy (KIEP)
 Office: Building C, Sejong National Research Complex, 370, Sicheong-daero, Sejong-si, South Korea, 30147
