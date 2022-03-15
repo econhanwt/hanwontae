@@ -3,15 +3,13 @@ layout: page
 title: Research 
 ---
 
-<hr size="1px">
-
 # Publications
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Journal of International Money and Finance, Volume 124, June 2022 <br>
   [[DOI]](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor), [[Manuscript]](), [[Appendix]](), [[VoxChina]](http://www.voxchina.org/show-3-221.html), [[KIEP-op]](https://econhanwt.github.io/my_docs/papers/KIEP_opinions_no224.pdf) 
 
-<hr size="1px">
+<hr size="1.5px">
 
 ## Working Papers
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
@@ -25,7 +23,7 @@ title: Research
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_, May 2018 <br>
   [[Manuscript]](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf) 
 
-<hr size="1px">
+<hr size="1.5px">
 
 ## Work in Progress 
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
@@ -34,7 +32,7 @@ title: Research
   
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
 
-<hr size="1px">
+<hr size="1.5px">
 
 ## Conference and Seminar Presentations
 * 2022 <br> 
