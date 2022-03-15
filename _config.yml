@@ -1,15 +1,21 @@
 # --- Basic options --- #
 
-# [수정필요] 웹페이지 이름
-title: Econ Ph.D. Wontae Han
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "https://econhanwt.github.io"
+baseurl: ""
 
-# [수정필요] 간단한 사이트 설명
-description: Academic Website of Wontae Han
+# If you are building a GitHub project page then use these settings:
+#url: "http://econhanwt.github.io/hanwt"
+#baseurl: "/hanwt"
 
-# [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: WONTAE HAN
 
-# [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
+# Name of website
+title: Dr. Wontae Han
+
+# Short description of your site
+description:: Academic Website of Wontae Han
+
+# --- Navigation bar options --- #
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 #     Career: "career"
 #     Publication: "publication"
@@ -18,6 +24,7 @@ author: WONTAE HAN
 #     GitHub: "https://github.com/econhanwt"
 #     Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 navbar-links:
+  Home: ""
   Academic Papers: "papers"
   Teaching: "teaching"
 
@@ -26,10 +33,14 @@ avatar: "/assets/img/Wontae_Han_1.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
+
+# --- Footer options --- #
+# 웹페이지 아래에 나오는 웹사이트 저자 이름
+author: WONTAE HAN
+
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
 #title-img: "/assets/img/Wontae_Han_full.jpg"
-
 
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
@@ -50,7 +61,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/hanwt2000"
 #  snapchat: hanwt2000
-
 #  youtube: user/hanwt2000
 #  spotify: yourname
 #  steam: hanwt2000
@@ -71,7 +81,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "econhanwt.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
