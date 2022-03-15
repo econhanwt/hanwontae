@@ -29,8 +29,13 @@ title: Research
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
 
 ## Conference and Seminar Presentations
-* 2022: The Korean Economic Association, Yonsei Univ(scheduled)  
-* 2021: Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews
-* 2020: WEAI@Shanghai (cancelled), KER International Conference 
-* 2019: Midwest International Trade Conference@WUSTL (Fall), Midwest Macroeconomic Meetings@MSU (Fall) 
-* 2018: Bank of Korea, CUHKSZ 
+* 2022 <br> 
+  The Korean Economic Association, Yonsei Univ(scheduled)  
+* 2021 <br> 
+  Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews
+* 2020 <br> 
+  WEAI@Shanghai (cancelled), KER International Conference 
+* 2019 <br> 
+  Midwest International Trade Conference@WUSTL (Fall), Midwest Macroeconomic Meetings@MSU (Fall) 
+* 2018 <br> 
+  Bank of Korea, CUHKSZ 
