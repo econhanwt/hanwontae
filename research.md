@@ -17,10 +17,12 @@ title: Research
   Conditionally Accepted, Pacific Economic Review, July 2021 <br> 
   [[Manuscript]](), [[Appendix]]() 
   
-* _“Incomplete ERPT, Imperfect Financial Market Integration, and Optimal Monetary Policy”_, Feb 2021 <br>
+* _“Incomplete ERPT, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
+  Feb 2021 <br>
   [[Manuscript]](), [[Appendix]](), [[Additional Figures]](), [[Slides]]() 
   
-* _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_, May 2018 <br>
+* _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
+  May 2018 <br>
   [[Manuscript]](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf) 
 
 <hr size="2px">
