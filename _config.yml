@@ -36,10 +36,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "hanwontae@kiep.go.kr / hanwt2000@gmail.com"
-  telephone: (+82) 44-414-1358 
-  linkedin: Wontae Han
+#social-network-links:
+#  email: "hanwontae@kiep.go.kr"
+#  email: "hanwt2000@gmail.com"
+#  telephone: (+82) 44-414-1358 
+#  linkedin: Wontae Han
 #  facebook: hanwt2000
 #  github: econhanwt
 #  twitter: hanwt2000
@@ -61,10 +62,10 @@ social-network-links:
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
 # --- General options --- #
 # Select which social network share links to show in posts
-share-links-active:
+#share-links-active:
 #  twitter: true
 #  facebook: true
-  linkedin: true
+#  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
