@@ -40,4 +40,4 @@ title: Research
 * 2021: Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews
 * 2020: WEAI@Shanghai (cancelled), KER International Conference 
 * 2019: Midwest International Trade Conference@WUSTL (Fall), Midwest Macroeconomic Meetings@MSU (Fall) 
-* 2018: Bank of Korea, CUHK(SZ) 
+* 2018: Bank of Korea, CUHKSZ 
