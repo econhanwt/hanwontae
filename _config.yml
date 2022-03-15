@@ -77,7 +77,7 @@ url-pretty: "econhanwt.github.io"
 link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 70
 
 # --- Colours / background image --- #
 
