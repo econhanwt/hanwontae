@@ -19,7 +19,7 @@ title: Research
   [[Manuscript]](), [[Appendix]](), [[Additional Figures]](), [[Slides]]() 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_, May 2018 <br>
-  [[Manuscript]]() 
+  [[Manuscript]](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf) 
 
 ## Work in Progress 
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
