@@ -15,7 +15,8 @@ title: Research
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
-  Conditionally Accepted, Pacific Economic Review, July 2021 
+  Conditionally Accepted, Pacific Economic Review, July 2021 <br> 
+  [[Final Manuscript]](), [[Appendix]]()
 
 * 
 
