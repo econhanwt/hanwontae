@@ -51,4 +51,4 @@ title: Research
   Midwest Macroeconomic Meetings@MSU (Fall) 
   
 * 2018 <br> 
-  Bank of Korea, CUHKSZ 
+  Bank of Korea, CUHK(SZ) 
