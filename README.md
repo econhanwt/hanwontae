@@ -6,11 +6,6 @@
 
 [상세 동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
 
-### 간단 GIF 가이드
-
-![Simple Guide](assets/img/simple-guide.gif)
-
-
 ## 데모 웹사이트
 
 생성된 데모 확인: https://seokho-son.github.io
