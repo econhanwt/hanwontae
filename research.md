@@ -3,7 +3,7 @@ layout: page
 title: Research 
 ---
 
-## Publications
+# Publications
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Journal of International Money and Finance, Volume 124, June 2022 <br>
