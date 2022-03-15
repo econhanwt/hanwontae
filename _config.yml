@@ -1,8 +1,8 @@
 # --- Basic options --- #
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-#url: "https://econhanwt.github.io"
-#baseurl: ""
+url: "https://econhanwt.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://econhanwt.github.io/hanwt"
