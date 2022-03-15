@@ -40,7 +40,7 @@ social-network-links:
   email: "hanwontae@kiep.go.kr"
 #  email: "hanwt2000@gmail.com"
 #  telephone: (+82) 44-414-1358 
-  linkedin: wontae-han-58132283/
+  linkedin: wontae-han-58132283
   facebook: Wontae.Han.00
   github: econhanwt
 #  twitter: hanwt2000
@@ -64,8 +64,8 @@ social-network-links:
 # Select which social network share links to show in posts
 #share-links-active:
 #  twitter: true
-  facebook: true
-  linkedin: true
+#  facebook: true
+#  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
