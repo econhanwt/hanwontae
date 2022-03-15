@@ -19,7 +19,7 @@ author: WONTAE HAN
 #     GitHub: "https://github.com/econhanwt"
 #     Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 navbar-links:
-  Home: ""
+  Home: "index"
   Academic Papers: "papers"
   Teaching: "teaching"
 
