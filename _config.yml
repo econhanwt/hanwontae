@@ -1,24 +1,24 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Dr. Wontae Han
+title: Econ Ph.D. Wontae Han
 
 # [수정필요] 간단한 사이트 설명
 description: Academic Website of Wontae Han
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Wontae Han
+author: WONTAE HAN
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
-#   Career: "career"
+#     Career: "career"
 #     Publication: "publication"
 #     Blog: "blog"
 #     Project: "project"
 #     GitHub: "https://github.com/econhanwt"
 #     Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 navbar-links:
-  Papers: "papers"
+  Academic Papers: "papers"
   Teaching: "teaching"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -36,12 +36,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-#social-network-links:
-#  email: "hanwontae@kiep.go.kr"
+social-network-links:
+  email: "hanwontae@kiep.go.kr"
 #  email: "hanwt2000@gmail.com"
 #  telephone: (+82) 44-414-1358 
-#  linkedin: Wontae Han
-#  facebook: hanwt2000
+  linkedin: wontae-han-58132283/
+  facebook: Wontae.Han.00
 #  github: econhanwt
 #  twitter: hanwt2000
 #  rss: true
@@ -64,8 +64,8 @@ round-avatar: true
 # Select which social network share links to show in posts
 #share-links-active:
 #  twitter: true
-#  facebook: true
-#  linkedin: true
+  facebook: true
+  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
