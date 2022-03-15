@@ -29,7 +29,7 @@ title: Research
   Presented at AIB 2021: JIBS Paper Development Workshop 
   
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
-* 
+
 
 ## Conference and Seminar Presentations
 * 2022: The Korean Economic Association, Yonsei Univ(scheduled)  
