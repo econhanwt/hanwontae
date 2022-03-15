@@ -9,7 +9,9 @@ layout: page
 
 # Dr. Wontae Han 
 
-### **Associate Research Fellow in Korea Institute for International Economic Policy(KIEP)**
+### **Associate Research Fellow**
+
+### **Korea Institute for International Economic Policy(KIEP)**
 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
