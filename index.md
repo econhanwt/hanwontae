@@ -17,7 +17,7 @@ layout: page
 * _**Doctoral Dissertation**_ <br>
   Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, Aug 2018. 
 * _**Committee**_ <br>
-  [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Kenneth West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan Carlos Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
+  [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
 ## Research Interest
 * International Macroeconomics 
