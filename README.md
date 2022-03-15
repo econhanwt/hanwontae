@@ -8,7 +8,11 @@
 
 ## 데모 웹사이트
 
-생성된 데모 확인: https://seokho-son.github.io
+https://vks.ai/
+https://desh2608.github.io/
+https://chauff.github.io/
+https://github.com/daattali/beautiful-jekyll#readme
+https://seokho-son.github.io
 
 ## 사사
 
