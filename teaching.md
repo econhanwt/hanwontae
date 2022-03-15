@@ -11,4 +11,4 @@ layout: page
 * _"Introduction to Economics,"_ master level, Summer 2019 <br>
 
 * _"Basic Macroeconomics,"_ undergraduate level, Spring 2019 <br>
-  [[sample lecture]](https://econhanwt/econhanwt.github.io/my_docs/notes/Note_Aggregate_Demand_Supply_Wontae_Han.pdf), [[student evaluation](https://econhanwt/econhanwt.github.io/my_docs/notes/Eval_ECO2021_Wontae_HAN.pdf)(5.29/6.00)] 
+  [[sample lecture]](https://econhanwt.github.io/my_docs/notes/Note_Aggregate_Demand_Supply_Wontae_Han.pdf), [[student evaluation](https://econhanwt.github.io/my_docs/notes/Eval_ECO2021_Wontae_HAN.pdf)(5.29/6.00)] 
