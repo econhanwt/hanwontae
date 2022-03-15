@@ -8,8 +8,7 @@ layout: page
 <br>
 
 # Wontae Han 
-* Ph.D. in Economics 
-* _**Associate Research Fellow**_ at _**Korea Institute for International Economic Policy**_
+* _**Ph.D. in Economics**_ 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
 ## Career
