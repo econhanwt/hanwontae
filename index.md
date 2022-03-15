@@ -11,6 +11,8 @@ layout: page
 * _**Ph.D. in Economics**_ 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
+<hr size="1px">
+
 ## Career
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
 * Postdoctoral Scholar, [CUHKSZ](https://sme.cuhk.edu.cn/en), 2018 - 2021 
@@ -18,15 +20,21 @@ layout: page
   Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, Aug 2018. <br>
   [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
+<hr size="1px">
+
 ## Research Interest
 * International Macroeconomics 
 * Business Cycle, Monetary Policy, FDI, Capital Flow in Open Economies 
+
+<hr size="1px">
 
 ## References
 * [Charles Engel](https://www.ssc.wisc.edu/~cengel/)
 * [Kenneth West](https://www.ssc.wisc.edu/~kwest/)
 * [Javier Bianchi](http://www.javierbianchi.com/)
 * [Jian Wang](https://jianwang.weebly.com/)
+
+<hr size="1px">
 
 ## Contact
 ```
