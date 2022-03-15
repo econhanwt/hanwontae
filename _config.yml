@@ -15,6 +15,10 @@ title: Dr. WONTAE HAN
 # Short description of your site
 description:: Academic Website of Wontae Han
 
+# --- Footer options --- #
+# 웹페이지 아래에 나오는 웹사이트 저자 이름
+author: WONTAE HAN
+
 # --- Navigation bar options --- #
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 #     Career: "career"
@@ -32,11 +36,6 @@ navbar-links:
 avatar: "/assets/img/Wontae_Han_1.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
-
-
-# --- Footer options --- #
-# 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: WONTAE HAN
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
