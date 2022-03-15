@@ -22,13 +22,13 @@ navbar-links:
   Teaching: "teaching"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/Wontae_Han_2.jpg"
+avatar: "/assets/img/Wontae_Han_1.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: false
+round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+#title-img: "/assets/img/Wontae_Han_full.jpg"
 
 
 # --- Footer options --- #
@@ -37,21 +37,21 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
-#  twitter: daattali
+  email: "hanwontae@kiep.go.kr / hanwt2000@gmail.com"
+  telephone: (+82) 44-414-1358 
+  linkedin: Wontae Han
+#  facebook: hanwt2000
+#  github: econhanwt
+#  twitter: hanwt2000
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/hanwt2000"
+#  snapchat: hanwt2000
+#  instagram: hanwt2000
+#  youtube: user/hanwt2000
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  steam: hanwt2000
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -63,7 +63,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
 #  twitter: true
-  facebook: true
+#  facebook: true
   linkedin: true
 #  vk: false
 
