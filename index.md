@@ -9,7 +9,7 @@ layout: page
 
 # Wontae Han 
 
-**Associate Research Fellow in Korea Institute for International Economic Policy(KIEP)** [Curriculum Vitae](https://www.etri.re.kr/kor/main/main.etri)
+**Associate Research Fellow in Korea Institute for International Economic Policy(KIEP)** [Curriculum Vitae](https://econhanwt.github.com/hanwt/my_docs/WontaeHan_CV.pdf)
 
 
 is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
