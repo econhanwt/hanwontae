@@ -41,7 +41,7 @@ title: Research
   The Korean Economic Association, Yonsei Univ(scheduled)  
   
 * 2021 <br> 
-  Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews
+  Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews, JIBS PDW
   
 * 2020 <br> 
   WEAI@Shanghai (cancelled), KER International Conference 
