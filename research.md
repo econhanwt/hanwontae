@@ -9,6 +9,8 @@ title: Research
   Journal of International Money and Finance, Volume 124, June 2022 <br>
   [[DOI]](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor), [[Manuscript]](), [[Appendix]](), [[VoxChina]](http://www.voxchina.org/show-3-221.html), [[KIEP-op]](https://econhanwt.github.io/my_docs/papers/KIEP_opinions_no224.pdf) 
 
+<hr size="2px">
+
 ## Working Papers
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
