@@ -3,7 +3,7 @@ layout: page
 ---
 <br>
 
-### CUHKSZ
+### Teaching Experience at [CUHKSZ](https://sme.cuhk.edu.cn/en)
 * _"Calculus for Economic Analysis I (undergraduate),"_ Fall 2019/Fall 2020 <br>
   [[sample lecture]](), [[student evaluation]()(5.78, 5.52/6.00)]
 
