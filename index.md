@@ -2,12 +2,12 @@
 layout: page
 title: General Equilibrium Economist
 # subtitle: Korea Institute of International Economic Policy
-cover-img: /assets/img/Wontae_Han_interview_1.JPG
+#cover-img: /assets/img/Wontae_Han_interview_1.JPG
 ---
 
 <br/>
 
-## About me
+## Associate About me
 
 **Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
 
