@@ -10,7 +10,6 @@ layout: page
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 
 <br>
-
 ## Career
 
 * Associate Research Fellow, KIEP, 2021 - present 
