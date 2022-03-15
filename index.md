@@ -1,8 +1,6 @@
 ---
 layout: page
 title: General Equilibrium Economics
-#subtitle: Korea Institute of International Economic Policy
-#cover-img: /assets/img/Wontae_Han_half.jpg
 ---
 
 <br/>
