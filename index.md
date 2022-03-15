@@ -13,7 +13,7 @@ layout: page
 
 ## Career
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
-* Postdoctoral Scholar, [CUHKSZ(SME)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
+* Postdoctoral Scholar, [CUHKSZ](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 * _**Doctoral Dissertation**_ <br>
   Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, Aug 2018. 
 * _**Committee**_ <br>
