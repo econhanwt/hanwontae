@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Research 
+#Dollar Pricing, Exchange Rate Fluctuations, and Optimal Monetary Policy in Multiple Countries
+#Currency Invoicing, Export Participation, and Optimal Monetary Policy
+#Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing
+#Expenditure Switching versus Real Exchange Rate Stabilization for Exchange Rate Policy Revisited
+#Home Bias and Trade Elasticity: Implication for International Risk Sharing and the Transmission of Supply and Demand Shocks
 ---
 
 # Publications
