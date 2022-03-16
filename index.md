@@ -10,15 +10,15 @@ layout: page
 # Wontae Han 
 * _**Ph.D. in Economics**_ 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
+* _**Doctoral Dissertation**_ and _**Committee**_: <br>
+  Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, Aug 2018 <br>
+  [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
 <hr size="2px">
 
 ## Career
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
 * Postdoctoral Scholar, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
-* _**Doctoral Dissertation**_ and _**Committee**_: <br>
-  Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, Aug 2018 <br>
-  [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
 <hr size="2px">
 
