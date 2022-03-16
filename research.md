@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research 
+# Work in Progress: 
 #Dollar Pricing, Exchange Rate Fluctuations, and Optimal Monetary Policy in Multiple Countries
 #Currency Invoicing, Export Participation, and Optimal Monetary Policy
 #Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing
