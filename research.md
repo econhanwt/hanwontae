@@ -17,7 +17,7 @@ title: Research
   Conditionally Accepted, Pacific Economic Review, July 2021 <br> 
   [[Manuscript]()], [[Appendix]()] 
   
-* _“Incomplete ERPT, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
+* _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
   Feb 2021 <br>
   [[Manuscript]()], [[Appendix]()], [[Additional Figures]()], [[Slides]()] 
   
