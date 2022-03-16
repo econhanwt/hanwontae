@@ -7,7 +7,7 @@ title: Research
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Journal of International Money and Finance, Volume 124, June 2022 <br>
-  [[DOI]](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor), [[Manuscript]](), [[Appendix]](), [[VoxChina]](http://www.voxchina.org/show-3-221.html), [[KIEP-op]](https://econhanwt.github.io/my_docs/papers/KIEP_opinions_no224.pdf) 
+  [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript]()], [[Appendix]()], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
 
@@ -15,15 +15,15 @@ title: Research
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Conditionally Accepted, Pacific Economic Review, July 2021 <br> 
-  [[Manuscript]](), [[Appendix]]() 
+  [[Manuscript]()], [[Appendix]()] 
   
 * _“Incomplete ERPT, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
   Feb 2021 <br>
-  [[Manuscript]](), [[Appendix]](), [[Additional Figures]](), [[Slides]]() 
+  [[Manuscript]()], [[Appendix]()], [[Additional Figures]()], [[Slides]()] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
   May 2018 <br>
-  [[Manuscript]](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf) 
+  [Manuscript]](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf)] 
 
 <hr size="2px">
 
