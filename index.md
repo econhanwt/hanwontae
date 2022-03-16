@@ -24,7 +24,7 @@ layout: page
 
 ## Research Interest
 * International Macroeconomics 
-* Business Cycle, Monetary Policy, FDI, Capital Flow in Open Economies 
+* Business Cycle, Capital Flow, FDI, Monetary Policy in Open Economies 
 
 <hr size="2px">
 
