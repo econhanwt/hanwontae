@@ -44,7 +44,7 @@ title: Research
   Sabanci Univ, LUMS, Bank of Korea, KIET, KIEP, Univ of St Andrews, JIBS PDW
   
 * 2020 <br> 
-  WEAI@Shanghai (cancelled), KER International Conference 
+  WEAI@Shanghai(cancelled), KER International Conference 
   
 * 2019 <br> 
   Midwest International Trade Conference@WUSTL (Fall), <br> 
