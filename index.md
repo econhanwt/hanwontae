@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-# Wontae Han 
+# Wontae Han or 한원태(韓源兌) 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/WontaeHan_CV.pdf)
 * _**Ph.D. in Economics**_ 
 * _**Doctoral Dissertation**_ and _**Committee**_: <br>
