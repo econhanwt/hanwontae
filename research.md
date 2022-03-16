@@ -47,7 +47,7 @@ title: Research
   WEAI@Shanghai(cancelled), KER International Conference 
   
 * 2019 <br> 
-  Midwest International Trade Conference@WUSTL, Midwest Macroeconomic Meetings@MSU 
+  Midwest Trade@WUSTL, Midwest Macro@MSU 
   
 * 2018 <br> 
   Bank of Korea, CUHK(SZ) 
