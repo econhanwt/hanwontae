@@ -18,7 +18,7 @@ layout: page
 
 ## Career
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
-* Postdoctoral Scholar, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
+* Postdoctoral Research Fellow, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 
 <hr size="2px">
 
