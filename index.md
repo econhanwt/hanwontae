@@ -16,7 +16,7 @@ layout: page
 
 <hr size="2px">
 
-## Career
+## Employment & Affiliations 
 * Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
 * Postdoctoral Research Fellow, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 
