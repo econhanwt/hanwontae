@@ -13,7 +13,7 @@ title: Research
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Journal of International Money and Finance, Volume 124, June 2022 <br>
-  [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript]()], [[Appendix]()], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/KIEP_opinions_no224.pdf)] 
+  [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
 
@@ -21,7 +21,7 @@ title: Research
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
   Conditionally Accepted, Pacific Economic Review, July 2021 <br> 
-  [[Manuscript]()], [[Appendix]()] 
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
   
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
   Mar 2022 <br>
@@ -29,7 +29,7 @@ title: Research
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
   May 2018 <br>
-  [[Manuscript](https://econhanwt.github.io/my_docs/papers/HWT_Spread_Banks_EME.pdf)] 
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2018_05_HWT_Spread_Banks_EME.pdf)] 
 
 <hr size="2px">
 
