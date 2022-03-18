@@ -24,7 +24,7 @@ title: Research
   [[Manuscript]()], [[Appendix]()] 
   
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  Feb 2021 <br>
+  Mar 2022 <br>
   [[Manuscript]()], [[Appendix]()], [[Additional Figures]()], [[Slides]()] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
