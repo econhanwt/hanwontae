@@ -24,8 +24,8 @@ title: Research
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
   
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  Mar 2022 <br>
-  [[Manuscript]()], [[Appendix]()], [[Additional Figures]()], [[Slides]()] 
+  Feb 2021 <br>
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_02_HWT_IERPT_IFMI_OMP.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_02_HWT_IERPT_IFMI_OMP_appendix.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2021_02_HWT_IERPT_IFMI_OMP_additional_figures.pdf)] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
   May 2018 <br>
