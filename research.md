@@ -44,7 +44,7 @@ title: Research
 
 ## Conference and Seminar Presentations
 * 2022 <br> 
-  The Korean Economic Association, Yonsei Univ.(scheduled)  
+  The Korean Economic Association, Yonsei Univ., Korea Univ.(scheduled)  
   
 * 2021 <br> 
   Sabanci Univ., LUMS, Bank of Korea, KIET, KIEP, Univ. of St Andrews, JIBS PDW
