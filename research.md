@@ -44,7 +44,7 @@ title: Research
 
 ## Conference and Seminar Presentations
 * 2022 <br> 
-  The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference(The Return of Inflation) 
+  The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation) 
   
 * 2021 <br> 
   Sabanci Univ., LUMS, Bank of Korea, KIET, KIEP, Univ. of St Andrews, JIBS PDW
