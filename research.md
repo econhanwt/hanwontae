@@ -11,7 +11,7 @@ title: Research
 
 # Publications
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
-  (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
+  -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;June 2022, Journal of International Money and Finance, Volume 124 <br>
   [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
@@ -23,7 +23,7 @@ title: Research
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_fig.pdf)] 
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
-  (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
+  -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;July 2021, _**Conditionally Accepted@Pacific Economic Review**_ <br> 
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
   
@@ -35,7 +35,7 @@ title: Research
 
 ## Work in Progress 
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
-  (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
+  -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;Presented at AIB 2021-JIBS Paper Development Workshop 
   
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
