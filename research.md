@@ -19,7 +19,7 @@ title: Research
 
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  Jan 2023 <br>
+  Jan 2023, _under review_ <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_fig.pdf)] 
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
