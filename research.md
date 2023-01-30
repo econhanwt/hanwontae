@@ -36,7 +36,7 @@ title: Research
 ## Work in Progress 
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
-  + Presented at AIB 2021-JIBS Paper Development Workshop 
+  = Presented at AIB 2021-JIBS Paper Development Workshop 
   
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
 
