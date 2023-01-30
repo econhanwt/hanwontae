@@ -19,12 +19,12 @@ title: Research
 
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  Jan 2023, _**`Under Review`**_ <br>
+  Jan 2023, _**``Under Review``**_ <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_fig.pdf)] 
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
-  July 2021, _**`Conditionally Accepted@ Pacific Economic Review`**_ <br> 
+  July 2021, _**``Conditionally Accepted@ Pacific Economic Review``**_ <br> 
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
