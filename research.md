@@ -12,7 +12,7 @@ title: Research
 # Publications
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
-  -June 2022, Journal of International Money and Finance, Volume 124 <br>
+  -&nbsp;June 2022, Journal of International Money and Finance, Volume 124 <br>
   [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
