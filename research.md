@@ -24,7 +24,7 @@ title: Research
 
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   (with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/)) <br>
-  July 2021, _**`Conditionally Accepted @ Pacific Economic Review`**_ <br> 
+  July 2021, _**`Conditionally Accepted@ Pacific Economic Review`**_ <br> 
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
