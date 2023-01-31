@@ -11,8 +11,8 @@ layout: page
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/2022_03_WontaeHan_CV.pdf)
 * _**Ph.D. in Economics**_ 
 * _**Doctoral Dissertation**_ and _**Committee**_: <br>
-  Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, 2018 <br>
-  [Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
+  -&nbsp;Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, 2018 <br>
+  -&nbsp;[Charles Engel(Chair)](https://www.ssc.wisc.edu/~cengel/), [Ken West](https://www.ssc.wisc.edu/~kwest/), [Enghin Atalay](https://enghinatalay.github.io/), [Menzie Chinn](https://www.ssc.wisc.edu/~mchinn/), [Juan C. Hatchondo](https://sites.google.com/site/juancarloshatchondo/)
 
 <hr size="2px">
 
