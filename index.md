@@ -8,7 +8,7 @@ layout: page
 <br>
 
 # Wontae Han (한원태, 韓源兌) 
-* [Curriculum Vitae](https://econhanwt.github.io/my_docs/2022_03_WontaeHan_CV.pdf)
+* [Curriculum Vitae](https://econhanwt.github.io/my_docs/2023_04_WontaeHan_CV.pdf)
 * _**Ph.D. in Economics**_ 
 * _**Doctoral Dissertation**_ and _**Committee**_: <br>
   -&nbsp;Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, 2018 <br>
