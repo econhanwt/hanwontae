@@ -10,6 +10,11 @@ layout: page
 ---
 
 # Publications
+* _“Benefits of FDI subsidies: The role of funding sources”_ <br>
+  -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
+  -&nbsp;Forthcoming, _**Pacific Economic Review**_ <br> 
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax_supp.pdf)] 
+
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;June 2022, _**Journal of International Money and Finance**_, Volume 124 <br>
@@ -19,13 +24,8 @@ layout: page
 
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  -&nbsp;Jan 2023, _**Under Review**_ <br>
-  [[Manuscript](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/HWT_OMP_RiskSharing_PTM_2023_01_fig.pdf)] 
-
-* _“Benefits of FDI subsidies: The role of funding sources”_ <br>
-  -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
-  -&nbsp;July 2021, _**Conditionally Accepted@Pacific Economic Review**_ <br> 
-  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2021_07_HanWangWangFDI_PER_appendix.pdf)] 
+  -&nbsp;Jan 2023, _**Under Review@Journal of the European Economic Association**_ <br>
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
   -&nbsp;May 2018 <br>
@@ -43,6 +43,9 @@ layout: page
 <hr size="2px">
 
 ## Conference and Seminar Presentations
+* 2023 <br> 
+  Inha Univ., Univ. of Seoul(scheduled) 
+  
 * 2022 <br> 
   The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation) 
   
