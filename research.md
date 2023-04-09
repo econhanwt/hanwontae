@@ -24,7 +24,7 @@ layout: page
 
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  -&nbsp;Jan 2023, _**Under Review@Journal of the European Economic Association**_ <br>
+  -&nbsp;Jan 2023, _**Under Review@JEEA**_ <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)] 
   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
