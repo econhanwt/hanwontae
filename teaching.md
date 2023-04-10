@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<hr size="2px">
+
 ## Teaching Experience at [CUHK(SZ)](https://sme.cuhk.edu.cn/en)
 
 * _"Calculus for Economic Analysis I,"_ undergraduate level <br>
