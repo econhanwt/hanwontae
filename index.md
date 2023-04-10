@@ -42,3 +42,5 @@ Affiliation: International Finance Team, Korea Institute for International Econo
 Office: Room 410, Building C, Sejong National Research Complex, 370, Sicheong-daero, Sejong-si, South Korea, 30147
 Email: hanwontae[at]kiep.go.kr or hanwt2000[at]gmail.com
 ```
+
+<hr size="2px">
