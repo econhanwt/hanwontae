@@ -11,7 +11,7 @@ layout: page
 
 <hr size="2px">
 
-## Publications
+# Publications
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;Forthcoming, _**Pacific Economic Review**_ <br> 
