@@ -5,6 +5,8 @@ layout: page
 #cover-img: /assets/img/Wontae_Han_interview_1.JPG
 ---
 
+<hr size="2px">
+
 # Wontae Han (한원태, 韓源兌) 
 * [Curriculum Vitae](https://econhanwt.github.io/my_docs/2023_04_WontaeHan_CV.pdf)
 * _**Ph.D. in Economics**_ 
