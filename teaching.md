@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<br>
 
 ## Teaching Experience at [CUHK(SZ)](https://sme.cuhk.edu.cn/en)
 
