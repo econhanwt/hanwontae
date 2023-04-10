@@ -16,3 +16,5 @@ layout: page
 * _"Basic Macroeconomics,"_ undergraduate level <br>
   -&nbsp;Spring 2019 <br>
   [[sample lecture](https://econhanwt.github.io/my_docs/notes/Note_Aggregate_Demand_Supply_Wontae_Han.pdf)], [[student evaluation](https://econhanwt.github.io/my_docs/notes/Eval_ECO2021_Wontae_HAN.pdf)(5.29/6.00)] 
+
+<hr size="2px">
