@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research 
+# title: Research 
 # Work in Progress: 
 #Dollar Pricing, Exchange Rate Fluctuations, and Optimal Monetary Policy in Multiple Countries
 #Currency Invoicing, Export Participation, and Optimal Monetary Policy
@@ -8,6 +8,8 @@ title: Research
 #Expenditure Switching versus Real Exchange Rate Stabilization for Exchange Rate Policy Revisited
 #Home Bias and Trade Elasticity: Implication for International Risk Sharing and the Transmission of Supply and Demand Shocks
 ---
+
+<hr size="2px">
 
 ## Publications
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
