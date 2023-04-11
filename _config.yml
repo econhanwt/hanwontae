@@ -32,6 +32,9 @@ round-avatar: true
 # then specify the following parameter
 #title-img: "/assets/img/Wontae_Han_full.jpg"
 
+# Extend the page from standard view to extended view 
+full-width: true
+
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
 # Select the social network links that you want to show in the footer.
