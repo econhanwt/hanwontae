@@ -46,15 +46,10 @@ layout: page
 
 ## Conference and Seminar Presentations
 * [2023] Inha Univ., Univ. of Seoul(scheduled)   
-* 2022 <br> 
-  The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
-* 2021 <br> 
-  Sabanci Univ., LUMS, Bank of Korea, KIET, KIEP, Univ. of St Andrews, JIBS PDW  
-* 2020 <br> 
-  WEAI@Shanghai(cancelled), KER International Conference   
-* 2019 <br> 
-  Midwest Trade@WUSTL, Midwest Macro@MSU   
-* 2018 <br> 
-  Bank of Korea, CUHK(SZ) 
+* [2022] The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
+* [2021] Sabanci Univ., LUMS, Bank of Korea, KIET, KIEP, Univ. of St Andrews, JIBS PDW  
+* [2020] WEAI@Shanghai(cancelled), KER International Conference   
+* [2019] Midwest Trade@WUSTL, Midwest Macro@MSU   
+* [2018] Bank of Korea, CUHK(SZ) 
 
 <hr size="2px">
