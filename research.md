@@ -16,7 +16,6 @@ layout: page
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;Forthcoming, _**Pacific Economic Review**_ <br> 
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax_supp.pdf)] 
-
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
   -&nbsp;June 2022, _**Journal of International Money and Finance**_, Volume 124 <br>
@@ -27,8 +26,7 @@ layout: page
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
   -&nbsp;Jan 2023, _**Under Review**_ <br>
-  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)] 
-  
+  [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)]   
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
   -&nbsp;May 2018 <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2018_05_HWT_Spread_Banks_EME.pdf)] 
@@ -38,8 +36,7 @@ layout: page
 ## Work in Progress 
 * _“Favorable Tax Treatment for FDI Firms and Foreign Ownership Wage Premium: Evidence from China”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](https://sites.google.com/site/xiaowangeconomics/) <br>
-  -&nbsp;Presented at AIB 2021-JIBS Paper Development Workshop 
-  
+  -&nbsp;Presented at AIB 2021-JIBS Paper Development Workshop   
 * _“Cooperation vs. Noncooperation, Discretion vs. Commitment: Implication for Optimal Policy Coordination under Incomplete Exchange Rate Pass-Through and Imperfect Risk Sharing”_ 
 
 <hr size="2px">
