@@ -1,5 +1,6 @@
 ---
 layout: page
+full-width: true
 ---
 
 <hr size="2px">
