@@ -46,7 +46,7 @@ full-width: true
 <hr size="2px">
 
 ## Conference and Seminar Presentations
-* [2023] Inha Univ., Univ. of Seoul(scheduled)   
+* [2023] Inha Univ., Univ. of Seoul 
 
 * [2022] The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
 
