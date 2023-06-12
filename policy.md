@@ -15,7 +15,7 @@ full-width: true
   -&nbsp;December 2022, _**KIEP Policy Analyses**_ <br>
   [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2022_12_KIEP_Policy_Analyses_FinCrisis.pdf)], [[Summary (KOR)](https://econhanwt.github.io/my_docs/papers/2022_12_KIEP_Policy_Analyses_Brief_FinCrisis.pdf)] 
 
-* _“Global inflation and its impact on domestic prices”_ <br>
+* _“Global Inflation, Its Impact on Domestic Prices, and Implications on Korean Economy”_ <br>
   -&nbsp;July 2022, _**KIEP World Economy Today**_ <br>
   [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2022_07_World_Economy_Today_Global_Inflation.pdf)] 
 
