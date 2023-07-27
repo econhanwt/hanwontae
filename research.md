@@ -15,7 +15,7 @@ full-width: true
 # Publications
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;Forthcoming, _**Pacific Economic Review**_ <br> 
+  -&nbsp;_**Pacific Economic Review**_, Forthcoming <br> 
   [[DOI](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0106.12421)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax_supp.pdf)] 
 
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
