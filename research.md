@@ -20,7 +20,7 @@ full-width: true
 
 * [2022.06] _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;June 2022, _**Journal of International Money and Finance**_, Volume 124 <br>
+  -&nbsp;_**Journal of International Money and Finance**_, Volume 124, June 2022 <br>
   [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
