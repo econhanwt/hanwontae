@@ -19,7 +19,7 @@ full-width: true
 
 * _“Global Inflation, Its Impact on Domestic Prices, and Implications”_ <br>
   -&nbsp;글로벌 인플레이션의 국내 전가와 시사점 <br>
-  -&nbsp;July 2022, _**KIEP World Economy Today**_, co-authored <br>  
+  -&nbsp;July 2022, _**KIEP World Economy Today**_, co-authored <br>
   [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2022_07_World_Economy_Today_Global_Inflation.pdf)] 
 
 <hr size="2px">
