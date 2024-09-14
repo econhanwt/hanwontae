@@ -2,14 +2,14 @@
 layout: page
 full-width: true
 #title: General Equilibrium Economics
-#subtitle: Korea Institute for International Economic Policy
+#subtitle: Dr Wontae Han 
 #cover-img: /assets/img/Wontae_Han_interview_1.JPG
 ---
 
 <hr size="2px">
 
 # Wontae Han (한원태, 韓源兌) 
-* [Curriculum Vitae](https://econhanwt.github.io/my_docs/2023_04_WontaeHan_CV.pdf)
+* [Curriculum Vitae](https://econhanwt.github.io/my_docs/2024_09_WontaeHan_CV.pdf)
 * _**Ph.D. in Economics**_ 
 * _**Doctoral Dissertation**_ and _**Committee**_: <br>
   -&nbsp;Essays in Open Economy Macroeconomics, Univ. of Wisconsin-Madison, 2018 <br>
@@ -18,7 +18,8 @@ full-width: true
 <hr size="2px">
 
 ## Employment 
-* Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - present 
+* Assistant Professor, [Dankook Univ.](https://www.dankook.ac.kr/en/web/international/102/), 2024 - present 
+* Associate Research Fellow, [KIEP](https://www.kiep.go.kr/eng/), 2021 - 2024 
 * Postdoctoral Research Fellow, [CUHK(SZ)](https://sme.cuhk.edu.cn/en), 2018 - 2021 
 
 <hr size="2px">
@@ -39,9 +40,9 @@ full-width: true
 
 ## Contact
 ```
-Affiliation: International Finance Team, Korea Institute for International Economic Policy (KIEP)
-Office: Room 410, Building C, Sejong National Research Complex, 370, Sicheong-daero, Sejong-si, South Korea, 30147
-Email: hanwontae[at]kiep.go.kr or hanwt2000[at]gmail.com
+Affiliation: College of Business & Economics, Dankook University 
+Office: Room 621, Jukjeon-ro 152, Suji-gu, Yongin-si, Gyeonggi-do, South Korea, 16890 
+Email: econ.hanwt[at]dankook.ac.kr or hanwt2000[at]gmail.com
 ```
 
 <hr size="2px">
