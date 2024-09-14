@@ -10,7 +10,7 @@ full-width: true
 * 대외충격의 자본유출입 효과와 경기안정화 정책 분석 <br>
   -&nbsp;_“Impact of External Shocks on Capital Flows and Effectiveness of Economic Stabilization Policies”_ <br>
   -&nbsp;December 2023, _**KIEP Policy Analyses**_, co-authored <br>
-  [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_Ext_Shocks.pdf)], [[Brief (KOR)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_KorBrief_Ext_Shocks.pdf)], [[Summary (ENG)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_SumEng_Ext_Shocks.pdf)], [[Brief (ENG)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_EngBrief_Ext_Shocks.pdf)] 
+  [[Report (KOR)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_Ext_Shocks.pdf)], [[Summary (ENG)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_SumEng_Ext_Shocks.pdf)], [[Brief (KOR)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_KorBrief_Ext_Shocks.pdf)], [[Brief (ENG)](https://econhanwt.github.io/my_docs/papers/2023_12_KIEP_Policy_Analysis_EngBrief_Ext_Shocks.pdf)] 
 
 * 코로나19 위기가 대면 산업 및 비대면 산업에 미친 영향 <br>
   -&nbsp;_“The Impact of COVID-19 on Contact and Non-Contact Sectors”_ <br>
