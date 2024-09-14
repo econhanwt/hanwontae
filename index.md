@@ -41,7 +41,7 @@ full-width: true
 ## Contact
 ```
 Affiliation: College of Business & Economics, Dankook University 
-Office: Room 621, Jukjeon-ro 152, Suji-gu, Yongin-si, Gyeonggi-do, South Korea, 16890 
+Address: Jukjeon-ro 152, Suji-gu, Yongin-si, Gyeonggi-do, South Korea, 16890 
 Email: econ.hanwt[at]dankook.ac.kr or hanwt2000[at]gmail.com
 ```
 
