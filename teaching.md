@@ -5,7 +5,7 @@ full-width: true
 
 <hr size="2px">
 
-## Teaching Experience at [Dankook University](https://www.dankook.ac.kr/en/web/international/102) 
+## Teaching Experience at [Dankook Univ.](https://www.dankook.ac.kr/en/web/international/102) 
 * _"Macroeconomics II,"_ undergraduate level <br>
   -&nbsp;Fall 2024 <br>
 
