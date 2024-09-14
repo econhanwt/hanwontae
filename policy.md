@@ -6,7 +6,7 @@ full-width: true
 
 <hr size="2px">
 
-# Policy Publications 
+# Policy and Korean Articles 
 * 대외충격의 자본유출입 효과와 경기안정화 정책 분석 <br>
   -&nbsp;_“Impact of External Shocks on Capital Flows and Effectiveness of Economic Stabilization Policies”_ <br>
   -&nbsp;December 2023, _**KIEP Policy Analyses**_, co-authored <br>
