@@ -15,19 +15,19 @@ full-width: true
 # Publications
 * _“Benefits of FDI subsidies: The role of funding sources”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;_**Pacific Economic Review**_, Forthcoming <br> 
+  -&nbsp;_**Pacific Economic Review**_, Vol.29(1), February 2024 <br> 
   [[DOI](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0106.12421)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_10_HanWangWangFDItax_supp.pdf)] 
 
 * _“FDI and firm productivity in host countries: The role of financial constraints”_ <br>
   -&nbsp;with [Jian Wang](https://jianwang.weebly.com/), [Xiao Wang](http://staff.ustc.edu.cn/~iriswx/) <br>
-  -&nbsp;_**Journal of International Money and Finance**_, Volume 124, June 2022 <br>
+  -&nbsp;_**Journal of International Money and Finance**_, Vol.124, June 2022 <br>
   [[DOI](https://www.sciencedirect.com/science/article/pii/S0261560622000262?dgcid=coauthor)], [[Manuscript](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_main.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2022_02_HanWangWangFDI_JIMF_appendix.pdf)], [[VoxChina](http://www.voxchina.org/show-3-221.html)], [[KIEP-op](https://econhanwt.github.io/my_docs/papers/2021_10_KIEP_opinions_no224.pdf)] 
 
 <hr size="2px">
 
 ## Working Papers
 * _“Incomplete Exchange Rate Pass-Through, Imperfect Financial Market Integration, and Optimal Monetary Policy”_ <br>
-  -&nbsp;January 2023, _**Under Review**_ <br>
+  -&nbsp;January 2023 <br>
   [[Manuscript](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM.pdf)], [[Appendix](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_append.pdf)], [[Additional Figures](https://econhanwt.github.io/my_docs/papers/2023_01_HWT_OMP_RiskSharing_PTM_fig.pdf)]   
 
 * _“Business and Credit Cycles in Emerging Economies: the Role of Financial Frictions”_ <br>
@@ -46,7 +46,9 @@ full-width: true
 <hr size="2px">
 
 ## Conference and Seminar Presentations
-* [2023] Inha Univ., Univ. of Seoul 
+* [2024] Dankook Univ., Chung-Ang Univ., Chonnam National Univ., Sookmyung Women’s Univ.
+
+* [2023] Inha Univ., Univ. of Seoul, Kyung Hee Univ., Chung-Ang Univ.(B-School), Kookmin Univ., Chungbuk National Univ., Sejong Univ.
 
 * [2022] The Korean Economic Association, Yonsei Univ., Korea Univ., KIEP-CEPR Conference (The Return of Inflation)   
 
