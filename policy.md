@@ -14,7 +14,7 @@ full-width: true
 
 * 코로나19 위기가 대면 산업 및 비대면 산업에 미친 영향 <br>
   -&nbsp;_“The Impact of COVID-19 on Contact and Non-Contact Sectors”_ <br>
-  -&nbsp;Vol.24, No.8, August 2023, _**Journal of the Korea Academia-Industrial cooperation Society(KCI )**_, <br>
+  -&nbsp;Vol.24, No.8, August 2023, _**Journal of the Korea Academia-Industrial cooperation Society(KCI )**_ <br>
   [[Article (KOR)](https://econhanwt.github.io/my_docs/papers/2023_08_Covid19_C_NC.pdf)]
 
 * 한·일 통화스와프 재개와 정책 시사점 <br>
