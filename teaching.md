@@ -8,6 +8,7 @@ full-width: true
 ## Teaching Experience at [Dankook Univ.](https://www.dankook.ac.kr/en/web/international/102) 
 * _"Macroeconomics II,"_ undergraduate level <br>
   -&nbsp;Fall 2024 <br>
+  [[student evaluation](https://econhanwt.github.io/my_docs/notes/Eval_Macro2024_fall.pdf)(4.34/5.00)]
 
 ## Teaching Experience at [CUHK(SZ)](https://sme.cuhk.edu.cn/en)
 * _"Calculus for Economic Analysis I,"_ undergraduate level <br>
